@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Mobile Application Development , LLM's , Cloud Computing**
+- 💬 Ask me about **Mobile Application Development,LLM's ,Cloud Computing**
 
 - 📫 How to reach me **samyak052002@gmail.com**
   
