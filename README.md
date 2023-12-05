@@ -2,7 +2,8 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Samyak</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammmy047" alt="sammmy047" /></a> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammmy047&theme=onedark" alt="sammmy047" /></a> </p>
 
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
