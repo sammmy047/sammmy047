@@ -31,5 +31,5 @@
 <div align="center">
 
 
-  ![](https://i.stack.imgur.com/IcnHP.png)
+  ![](https://github.com/sammmy047/sammmy047/blob/main/IcnHP.png)
 </div>
