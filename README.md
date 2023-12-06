@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-<h1 align="center"> नमस्ते (Namaste), I'm Samyak</h1>
+<h1 align="center"> ನಮಸ್ಕಾರ (Namaste), I'm Samyak</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 
